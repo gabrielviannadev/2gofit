@@ -1,9 +1,8 @@
-# Projeto de apresentação para a vaga de Desenvolvedor Junior Flutter na 2GO Smart Mobility - 2GOFit
+# Projeto de apresentação para a vaga de Desenvolvedor Junior Flutter na 2GO Smart Mobility
 
-## Getting Started
+## 2GOFit
 
-This project is a starting point for a Flutter application.
-A few resources to get you started if this is your first Flutter project:
+Esse é um dos meus primeiros projetos em Flutter, e se trata de um modelo estático, apenas para apresentação na vaga.
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
