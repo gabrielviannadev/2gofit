@@ -1,6 +1,4 @@
-# home2g0_static
-
-A new Flutter project.
+# Projeto de apresentação para a vaga de Desenvolvedor Junior Flutter na 2GO Smart Mobility
 
 ## Getting Started
 
