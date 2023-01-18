@@ -1,4 +1,4 @@
-# Projeto de apresentação para a vaga de Desenvolvedor Junior Flutter na 2GO Smart Mobility
+# Projeto de apresentação para a vaga de Desenvolvedor Junior Flutter na 2GO Smart Mobility.
 ## 2GOFit
 
 Esse é um dos meus primeiros projetos em Flutter, e se trata de um modelo estático, apenas para apresentação na vaga. 
