@@ -4,7 +4,7 @@
 Esse é um dos meus primeiros projetos em Flutter, e se trata de um modelo estático, apenas para apresentação na vaga. 
 ### Foram feitos comentários sobre a condução do projeto dentro dos arquivos .dart da pasta <b>lib<b>.
 
-![registre-o-seu-melhor-treino](https://user-images.githubusercontent.com/61065553/213052411-2fcf9ae8-b82e-4ed1-aba9-02390c8e99ee.jpg)
+![registre-o-seu-melhor-treino](https://user-images.githubusercontent.com/61065553/213052882-8921b867-8e94-4423-b9a0-0a00b4dd8be6.jpg)
 
 - [Instagram](https://www.instagram.com/gabrielvianna__/)
 - [GitHub](https://github.com/gabrielviannadev)
